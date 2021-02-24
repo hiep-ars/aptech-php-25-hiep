@@ -27,9 +27,12 @@ echo "<h1>3. DISPLAY TO HTML</h1>";
  * echo "Nam Nguyen Hai - News Website";
  */
 echo "<br><br>DO EXERCISE INSIDE COMMENT CODE BELOW THIS LINE<hr>";
-echo "Le Truong Hiep - News Website";
-echo ("Le Truong Hiep - News Website");
+echo "Le Truong Hiep - News Website","<br>";
+echo ("Le Truong Hiep - News Website"), "<br>";
 print "Le Truong Hiep - News Website";
+echo "<br>";
 print ("Le Truong Hiep - News Website");
+echo "<br>";
 print_r ("Le Truong Hiep - News Website");
+?>
 ?>

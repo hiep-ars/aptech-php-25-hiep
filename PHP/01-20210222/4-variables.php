@@ -29,5 +29,6 @@ echo "<br><br>DO EXERCISE INSIDE COMMENT CODE BELOW THIS LINE<hr>";
 $myName = 'Le Truong Hiep';
 $myProject = 'News Website';
 echo "$myName - $myProject";
+echo "<br>";
 print_r($myName . ' - ' . $myProject);
 ?>
