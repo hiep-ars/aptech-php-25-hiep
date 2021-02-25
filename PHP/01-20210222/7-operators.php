@@ -38,8 +38,8 @@ echo $x;
 // Assignment Operators
 echo "<br>";
 $x = 15;
-$y = 15;
-var_dump($x == $y);
+$y = "15";
+var_dump($x === $y);
 // Comparison Operators
 echo "<br>";
 $x = 10;
@@ -47,7 +47,7 @@ echo ++$x;
 // Increment / Decrement Operators
 echo "<br>";
 $x = 10;
-$y = 5;
+$y = 15;
 if ($x == 10 and $y == 15) {
     echo "Logical Operators";
 }
